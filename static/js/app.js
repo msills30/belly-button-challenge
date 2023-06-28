@@ -94,7 +94,7 @@ function buildCharts(sample) {
       }
     ];
     const layout1 = {
-      title: 'Bubble Chart',
+      
       xaxis: { title: 'OTU ID' },
       yaxis: {title: 'Sample Value'},
       autosize: true // Set autosize not autofit
